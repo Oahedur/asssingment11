@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial;
+}
+.header{
+    text-align: center;
+    background-color:#34495e
+    
+    
+}
+.main-div{
+    width: 85%;
+   margin: auto;
+}
+
+.header ul{
+    list-style: none;
+    padding: 50px 0px 100px;
+}
+.header ul li a{
+    text-decoration: none;
+    color: black;
+    background-color: #e67e22;
+    padding: 10px;
+}
+.header ul li{
+    display: inline-block;
+    margin: 16px;
+}
+.header ul li span{
+    display: block;
+    height: 30px;
+    width: 5px;
+    background-color: white;
+    margin: auto;
+}
+.header ul li p{
+    color: #e67e22;
+    font-size: 28px;
+    margin-top: 5px;
+}
+.header ul li a:hover{
+    color:blue
+    
+}
+.services{
+    background-color: #fff;
+    height: 450px;
+    padding: 60px 0px;
+    position: relative;
+
+}
+.services h1{
+    text-align:center ;
+    font-size: 70px;
+    color:#3c5e3c;
+    border-bottom:  4px dashed #3c5e3c;
+}
+.card{
+    width: 255px;
+    height: 294px;
+    background-color: #eee7e7;
+    text-align: center;
+    padding: 25px;
+    box-shadow: 1px 3px 13px 1px black;
+    border-radius: 20px;
+    transition: all  1s;
+}
+.icon{
+    font-size: 70px;
+    color: #3c5e3c;
+    
+}
+.card h3{
+    padding: 10px 0px;
+    color: #753e3e;
+
+}
+.card1{
+
+    position: absolute;
+    top: 33%;
+    left: 6%;
+
+}
+.card2{    position: absolute;
+    top: 33%;
+    left: 42%;
+
+}
+.card3{
+    position: absolute;
+    top: 33%;
+    left: 75%;
+}
+.card:hover{
+    background-color: #3742db;
+    
+}
+
+.contact{
+    background-color: #9b59b6;
+    height: 500px;
+    position: relative;
+
+}
+.circle{
+    height: 120px;
+    width: 120px;
+    background-color: #34495e;
+    border: 5px dotted #bf7131;
+    border-radius: 50%;
+}
+.circle1{
+    position: absolute;
+    top: 30%;
+    right: 72%;
+}
+.circle2{
+    position: absolute;
+    top: 2%;
+    right: 61%;
+}
+.circle4{
+    position: absolute;
+    top: 3%;
+    right: 12%;
+    right: 37%;
+
+}
+.circle5{
+    position: absolute;
+    top: 32%;
+    right: 24%;
+}
+.circle3{
+   
+    height: 120px;
+    width: : 120px;
+    border-radius: 50%;
+    
+}
+.circle3 img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; 
+    border: 5px solid #bf7131;
+
+
+}
+.circle3{
+    position: relative;
+}
+.jillur-contant{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  
+  
+}
+.jillur-contant span{
+    text-align: center;
+    padding-top: 61px;
+    display: block
+  
+    
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
